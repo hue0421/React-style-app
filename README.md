@@ -2,7 +2,7 @@
 
 ### 사진
 
-![main](https://postfiles.pstatic.net/MjAyMDA5MjhfMTY0/MDAxNjAxMjUzNzU3NjY5.ID8eG0dydNp4gLhm7Xn-9kKgqNJZEBxMgbgBPlhX8s8g.4P8WNno5OgrrtIkYh_TAhUgFQQ9H-t30WoL3NCY1nekg.PNG.jejunseo94/nnn.png?type=w966)
+![main](https://postfiles.pstatic.net/MjAyMDA5MjhfMjEx/MDAxNjAxMjU1NjE3NzM3.noojqxOcaFoVBJo8UbmDEKtmY2diCMZ6z3tjf8wno3Mg.1SwibNFyc2Sn5OEeuz0gFr5f8zJlAcDhLxfEcQSqM68g.PNG.jejunseo94/a1_1.png?type=w966)
 
 ### 설치
 
