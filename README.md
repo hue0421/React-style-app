@@ -2,7 +2,9 @@
 
 ### 사진
 
-![main](https://postfiles.pstatic.net/MjAyMDA5MjhfMjEx/MDAxNjAxMjU1NjE3NzM3.noojqxOcaFoVBJo8UbmDEKtmY2diCMZ6z3tjf8wno3Mg.1SwibNFyc2Sn5OEeuz0gFr5f8zJlAcDhLxfEcQSqM68g.PNG.jejunseo94/a1_1.png?type=w966)
+![img](https://github.com/hue0421/React-style-app/blob/master/preview/1.jpg)
+![img](https://github.com/hue0421/React-style-app/blob/master/preview/2.jpg)
+![img](https://github.com/hue0421/React-style-app/blob/master/preview/3.jpg)
 
 ### 설치
 
