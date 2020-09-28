@@ -2,9 +2,9 @@
 
 ### 사진
 
-![img](https://github.com/hue0421/React-style-app/blob/master/preview/1.jpg)
-![img](https://github.com/hue0421/React-style-app/blob/master/preview/2.jpg)
-![img](https://github.com/hue0421/React-style-app/blob/master/preview/3.jpg)
+![img](https://github.com/hue0421/React-style-app/blob/master/preview/page1.jpg)
+![img](https://github.com/hue0421/React-style-app/blob/master/preview/page2.jpg)
+![img](https://github.com/hue0421/React-style-app/blob/master/preview/page3.jpg)
 
 ### 설치
 
